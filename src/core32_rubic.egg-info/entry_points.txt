@@ -1,0 +1,2 @@
+[console_scripts]
+core32 = core32.cli:main
